@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "NT3H2111W0FHKH")(type "KiCad")(uri "C:/Users/Simon/Desktop/NT3H2111W0FHKH")(options "")(descr ""))
+  (lib (name "FQV3JXVJRBBMXRR")(type "Eagle")(uri "C:/Users/Simon/Desktop/FQV3JXVJRBBMXRR.lbr")(options "")(descr ""))
+  (lib (name "TL3315NF100Q")(type "KiCad")(uri "C:/Users/Simon/Desktop/TL3315NF100Q")(options "")(descr ""))
+)
